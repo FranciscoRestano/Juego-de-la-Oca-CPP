@@ -8,7 +8,7 @@ Implementación del clásico juego de mesa "El Juego de la Oca" desarrollada com
 * Lógica del juego implementada con Programación Orientada a Objetos (POO).
 * Manejo de reglas de casillas especiales (Puente, Pozo, Cárcel, etc.).
 
-### 🛠 Tecnologías Utilizadas
+### Tecnologías Utilizadas
 * C++
 * Qt (si aplica por los archivos .ui y .pro)
 
